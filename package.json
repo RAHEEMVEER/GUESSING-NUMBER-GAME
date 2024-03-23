@@ -1,0 +1,21 @@
+{
+  "name": "rv55-guessingnumgame",
+  "version": "3.0.0",
+  "description": "GUESSING GAME WITH COMPUTER.",
+  "main": "numGuess.js",
+  "type": "module",
+  "bin": "numGuess.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "RAHEEM VEER",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "raheem55-guessnumgame": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
